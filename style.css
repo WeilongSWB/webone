@@ -11,7 +11,8 @@
   border-radius: 180px;
   margin-left: 75px;
   margin-top: 50px;
-
+  max-width: 50%;  
+  height: auto;  
 }
 .divtwo{
   margin-top: 75px;
@@ -23,8 +24,6 @@
 }
 .div{
   margin-left:360px;
-  max-width: 50%;  
-  height: auto;  
 }
 .divmain{
   height: 600px;
