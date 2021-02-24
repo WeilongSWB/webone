@@ -23,6 +23,8 @@
 }
 .div{
   margin-left:360px;
+  max-width: 50%;  
+  height: auto;  
 }
 .divmain{
   height: 600px;
